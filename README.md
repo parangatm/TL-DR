@@ -6,8 +6,7 @@ Thanks to targeted social media, I come across so many new research and developm
 ---
 
 ## Contents
-| | Title | Author | Source |
-| :---: | :--- | :---: | :---: |
-|1.| | | |
-|2.| | | |
 
+| | Title | Source(s) |
+|---|---|---|
+|1.| Synopsys gears up for RISC-V |- [Synopsys Takes on RISC-V Configurability with ARC-V Processor IP Family](https://www.eejournal.com/article/synopsys-takes-on-risc-v-configurability-with-arc-v-processor-ip-family/)<br>- [Synopsys Acquires RISC-V Processor Simulation Tools Firm](https://www.eetimes.com/synopsys-acquires-risc-v-processor-simulation-tools-firm/)|
