@@ -9,5 +9,6 @@ Welcome to my repository for the different research papers and technical article
 - [Artificial Intelligence](./AI)
 - [Hardware Security](./HW_Security)
 - [Chip Design](./Chip_Design)
+- [GPU](./GPU)
 
 Happy Reading!
