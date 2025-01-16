@@ -7,8 +7,7 @@ Welcome to my repository for the different research papers and technical article
 
 ### Topics
 - [Artificial Intelligence](./AI)
-- [Hardware Security](./HW_Security)
+- [Security](./Security)
 - [Chip Design](./Chip_Design)
-- [GPU](./GPU)
 
 Happy Reading!
