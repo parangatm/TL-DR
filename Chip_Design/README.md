@@ -12,6 +12,8 @@ The field of Computer Architecture is undergoing a transformative shift, driven 
 | Paper Title                                       | Authors          | Year | Publication Link                            | Summary Link |
 |---------------------------------------------------|------------------|------|---------------------------------------------|----|
 | Power struggles: Revisiting the RISC vs. CISC debate on contemporary ARM and x86 architectures | Blem et al. | 2013 | [IEEE](https://ieeexplore.ieee.org/document/6522302) | [Review](./CompArch/Power_Struggles.md) |
+| A case for (partially) TAgged GEometric history length branch prediction | Seznec et al. | 2006 | [JILP](https://jilp.org/vol8/v8paper1.pdf) | [Review](./CompArch/TAGE.md) |
+| Introducing the IA-64 architecture | Huck et al. | 2000 | [IEEE](https://ieeexplore.ieee.org/document/877947) | [Review](./CompArch/IA-64.md) |
 
 ### GPU Microarchitecture
 | Paper Title                                       | Authors          | Year | Publication Link                            | Summary Link |
