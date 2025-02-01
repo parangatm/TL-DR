@@ -15,3 +15,4 @@
 | PhantomCache: Obfuscating Cache Conflicts with Localized Randomization | Tan et al. | 2020 | [NDSS](https://www.ndss-symposium.org/ndss-paper/phantomcache-obfuscating-cache-conflicts-with-localized-randomization/) | [Review](./Cache_Defenses_Review.pdf) |
 | ClepsydraCache -- Preventing Cache Attacks with Time-Based Evictions | Thoma et al. | 2023 | [USENIX](https://www.usenix.org/conference/usenixsecurity23/presentation/thoma) | [Review](./Cache_Defenses_Review.pdf) |
 | Scatter and Split Securely: Defeating Cache Contention and Occupancy Attacks | Giner et al. | 2023 | [IEEE SP](https://ieeexplore.ieee.org/document/10179440) | [Review](./Cache_Defenses_Review.pdf) |
+| ARMageddon: cache attacks on mobile devices | Lipp et al. | 2016 | [USENIX](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_lipp.pdf) | [Summary](./Lipp_2016_Armageddon.md) |
