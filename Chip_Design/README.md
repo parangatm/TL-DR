@@ -14,6 +14,9 @@ The field of Computer Architecture is undergoing a transformative shift, driven 
 | Power struggles: Revisiting the RISC vs. CISC debate on contemporary ARM and x86 architectures | Blem et al. | 2013 | [IEEE](https://ieeexplore.ieee.org/document/6522302) | [Review](./CompArch/Power_Struggles.md) |
 | A case for (partially) TAgged GEometric history length branch prediction | Seznec et al. | 2006 | [JILP](https://jilp.org/vol8/v8paper1.pdf) | [Review](./CompArch/TAGE.md) |
 | Introducing the IA-64 architecture | Huck et al. | 2000 | [IEEE](https://ieeexplore.ieee.org/document/877947) | [Review](./CompArch/IA-64.md) |
+| Continual flow pipelines | Srinivasan et al. | 2004 | [ACM](https://dl.acm.org/doi/10.1145/1037949.1024407) | [Review](./CompArch/CFP.md) |
+| Alternate Path Fetch | Deshmukh et al. | 2024 | [IEEE](https://ieeexplore.ieee.org/document/10609592) | [Review](./CompArch/APF.md) |
+| The ZCache: Decoupling Ways and Associativity | Sanchez et al. | 2010 | [IEEE](https://ieeexplore.ieee.org/document/5695536) | [Review](./CompArch/ZCache.md) |
 
 ### GPU Microarchitecture
 | Paper Title                                       | Authors          | Year | Publication Link                            | Summary Link |
