@@ -17,6 +17,7 @@ The field of Computer Architecture is undergoing a transformative shift, driven 
 | Continual flow pipelines | Srinivasan et al. | 2004 | [ACM](https://dl.acm.org/doi/10.1145/1037949.1024407) | [Review](./CompArch/CFP.md) |
 | Alternate Path Fetch | Deshmukh et al. | 2024 | [IEEE](https://ieeexplore.ieee.org/document/10609592) | [Review](./CompArch/APF.md) |
 | The ZCache: Decoupling Ways and Associativity | Sanchez et al. | 2010 | [IEEE](https://ieeexplore.ieee.org/document/5695536) | [Review](./CompArch/ZCache.md) |
+| NVIDIA Tesla: A Unified Graphics and Computing Architecture | Lindholm et al. | 2008 | [IEEE](https://ieeexplore.ieee.org/document/4523358/) | [Review](./CompArch/Tesla.md) |
 
 ### GPU Microarchitecture
 | Paper Title                                       | Authors          | Year | Publication Link                            | Summary Link |
