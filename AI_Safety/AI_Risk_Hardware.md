@@ -122,59 +122,59 @@ As AI systems scale in capability, hardware must evolve from securing data to se
 
 ## References
 
-“2025 AI Safety Index,” Future of Life Institute. [Online]. Available: https://futureoflife.org/ai-safety-index-summer-2025/
+- “2025 AI Safety Index,” Future of Life Institute. [Online]. Available: https://futureoflife.org/ai-safety-index-summer-2025/
 
-Ziemann, “AI alignment through programmable cryptography.”  [Online]. Available: https://ziemann.me/ai-crypto/
+- Ziemann, “AI alignment through programmable cryptography.”  [Online]. Available: https://ziemann.me/ai-crypto/
 
-C. S. de Witt, “Open Challenges in Multi-Agent Security: Towards Secure Systems of Interacting AI Agents,” May 04, 2025, arXiv: arXiv:2505.02077. doi: 10.48550/arXiv.2505.02077.
+- C. S. de Witt, “Open Challenges in Multi-Agent Security: Towards Secure Systems of Interacting AI Agents,” May 04, 2025, arXiv: arXiv:2505.02077. doi: 10.48550/arXiv.2505.02077.
 
-C. L. Wang, T. Singhal, A. Kelkar, and J. Tuo, “MI9 -- Agent Intelligence Protocol: Runtime Governance for Agentic AI Systems,” Aug. 08, 2025, arXiv: arXiv:2508.03858. doi: 10.48550/arXiv.2508.03858.
+- C. L. Wang, T. Singhal, A. Kelkar, and J. Tuo, “MI9 -- Agent Intelligence Protocol: Runtime Governance for Agentic AI Systems,” Aug. 08, 2025, arXiv: arXiv:2508.03858. doi: 10.48550/arXiv.2508.03858.
 
-K. Uppal, “Secure Boot and Runtime Security in Embedded Systems,” Fidus Systems.  [Online]. Available: https://fidus.com/blog/secure-boot-and-runtime-security-in-fpga-based-embedded-systems/
+- K. Uppal, “Secure Boot and Runtime Security in Embedded Systems,” Fidus Systems.  [Online]. Available: https://fidus.com/blog/secure-boot-and-runtime-security-in-fpga-based-embedded-systems/
 
-P. Slattery et al., “The AI Risk Repository: A Comprehensive Meta-Review, Database, and Taxonomy of Risks From Artificial Intelligence,” Apr. 10, 2025, arXiv: arXiv:2408.12622. doi: 10.48550/arXiv.2408.12622.
+- P. Slattery et al., “The AI Risk Repository: A Comprehensive Meta-Review, Database, and Taxonomy of Risks From Artificial Intelligence,” Apr. 10, 2025, arXiv: arXiv:2408.12622. doi: 10.48550/arXiv.2408.12622.
 
-C. Schnabl, D. Hugenroth, B. Marino, and A. R. Beresford, “Attestable Audits: Verifiable AI Safety Benchmarks Using Trusted Execution Environments,” Jun. 30, 2025, arXiv: arXiv:2506.23706. doi: 10.48550/arXiv.2506.23706.
+- C. Schnabl, D. Hugenroth, B. Marino, and A. R. Beresford, “Attestable Audits: Verifiable AI Safety Benchmarks Using Trusted Execution Environments,” Jun. 30, 2025, arXiv: arXiv:2506.23706. doi: 10.48550/arXiv.2506.23706.
 
-F. Rosas, A. Boyd, and M. Baltieri, “AI in a vat: Fundamental limits of efficient world modelling for agent sandboxing and interpretability,” Apr. 06, 2025, arXiv: arXiv:2504.04608. doi: 10.48550/arXiv.2504.04608.
+- F. Rosas, A. Boyd, and M. Baltieri, “AI in a vat: Fundamental limits of efficient world modelling for agent sandboxing and interpretability,” Apr. 06, 2025, arXiv: arXiv:2504.04608. doi: 10.48550/arXiv.2504.04608.
 
-A. Ribeiro, “AI-powered threats, cyber workforce gaps, policy crisis undermine global security,” Industrial Cyber.  [Online]. Available: https://industrialcyber.co/critical-infrastructure/ai-powered-threats-cyber-workforce-gaps-policy-crisis-undermine-global-security/
+- A. Ribeiro, “AI-powered threats, cyber workforce gaps, policy crisis undermine global security,” Industrial Cyber.  [Online]. Available: https://industrialcyber.co/critical-infrastructure/ai-powered-threats-cyber-workforce-gaps-policy-crisis-undermine-global-security/
 
-H. Rahaman, A. Chatterjee, and S. Bhunia, “Runtime Detection of Adversarial Attacks in AI Accelerators Using Performance Counters,” Mar. 10, 2025, arXiv: arXiv:2503.07568. doi: 10.48550/arXiv.2503.07568.
+- H. Rahaman, A. Chatterjee, and S. Bhunia, “Runtime Detection of Adversarial Attacks in AI Accelerators Using Performance Counters,” Mar. 10, 2025, arXiv: arXiv:2503.07568. doi: 10.48550/arXiv.2503.07568.
 
-A. O’Gara et al., “Hardware-Enabled Mechanisms for Verifying Responsible AI Development,” Apr. 02, 2025, arXiv: arXiv:2505.03742. doi: 10.48550/arXiv.2505.03742.
+- A. O’Gara et al., “Hardware-Enabled Mechanisms for Verifying Responsible AI Development,” Apr. 02, 2025, arXiv: arXiv:2505.03742. doi: 10.48550/arXiv.2505.03742.
 
-J. O’Brien et al., “Expert Survey: AI Reliability & Security Research Priorities,” May 27, 2025, arXiv: arXiv:2505.21664. doi: 10.48550/arXiv.2505.21664.
+- J. O’Brien et al., “Expert Survey: AI Reliability & Security Research Priorities,” May 27, 2025, arXiv: arXiv:2505.21664. doi: 10.48550/arXiv.2505.21664.
 
-K. Madhavan, A. Yazdinejad, F. Zarrinkalam, and A. Dehghantanha, “Quantifying Security Vulnerabilities: A Metric-Driven Security Analysis of Gaps in Current AI Standards,” Jul. 26, 2025, arXiv: arXiv:2502.08610. doi: 10.48550/arXiv.2502.08610.
+- K. Madhavan, A. Yazdinejad, F. Zarrinkalam, and A. Dehghantanha, “Quantifying Security Vulnerabilities: A Metric-Driven Security Analysis of Gaps in Current AI Standards,” Jul. 26, 2025, arXiv: arXiv:2502.08610. doi: 10.48550/arXiv.2502.08610.
 
-S. Longpre et al., “In-House Evaluation Is Not Enough: Towards Robust Third-Party Flaw Disclosure for General-Purpose AI,” Mar. 25, 2025, arXiv: arXiv:2503.16861. doi: 10.48550/arXiv.2503.16861.
+- S. Longpre et al., “In-House Evaluation Is Not Enough: Towards Robust Third-Party Flaw Disclosure for General-Purpose AI,” Mar. 25, 2025, arXiv: arXiv:2503.16861. doi: 10.48550/arXiv.2503.16861.
 
-Z. Lin, H. Sun, and N. Shroff, “AI Safety vs. AI Security: Demystifying the Distinction and Boundaries,” Jun. 21, 2025, arXiv: arXiv:2506.18932. doi: 10.48550/arXiv.2506.18932.
+- Z. Lin, H. Sun, and N. Shroff, “AI Safety vs. AI Security: Demystifying the Distinction and Boundaries,” Jun. 21, 2025, arXiv: arXiv:2506.18932. doi: 10.48550/arXiv.2506.18932.
 
-O. Kuperman, “Why isn’t AI containment the primary AI safety strategy?,” Feb. 2025,  [Online]. Available: https://www.lesswrong.com/posts/RTs5hpFPYQaY9SoRd/why-isn-t-ai-containment-the-primary-ai-safety-strategy
+- O. Kuperman, “Why isn’t AI containment the primary AI safety strategy?,” Feb. 2025,  [Online]. Available: https://www.lesswrong.com/posts/RTs5hpFPYQaY9SoRd/why-isn-t-ai-containment-the-primary-ai-safety-strategy
 
-S. G. Engineering, “Sandboxed AI: Deploying LLMs in Air-Gapped Environments.”  [Online]. Available: https://thesoogroup.com/blog/sandboxed-ai-deploying-llms-airgapped
+- S. G. Engineering, “Sandboxed AI: Deploying LLMs in Air-Gapped Environments.”  [Online]. Available: https://thesoogroup.com/blog/sandboxed-ai-deploying-llms-airgapped
 
-P. Barnett, A. Scher, and D. Abecassis, “Technical Requirements for Halting Dangerous AI Activities,” Jul. 13, 2025, arXiv: arXiv:2507.09801. doi: 10.48550/arXiv.2507.09801.
+- P. Barnett, A. Scher, and D. Abecassis, “Technical Requirements for Halting Dangerous AI Activities,” Jul. 13, 2025, arXiv: arXiv:2507.09801. doi: 10.48550/arXiv.2507.09801.
 
-“The Rogue Replication Threat Model,” METR Blog, Nov. 2024,  [Online]. Available: https://metr.org/blog/2024-11-12-rogue-replication-threat-model/
+- “The Rogue Replication Threat Model,” METR Blog, Nov. 2024,  [Online]. Available: https://metr.org/blog/2024-11-12-rogue-replication-threat-model/
 
-H. Karnofsky, “A Sketch of Potential Tripwire Capabilities for AI,” Dec. 2024. [Online]. Available: https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai 
+- H. Karnofsky, “A Sketch of Potential Tripwire Capabilities for AI,” Dec. 2024. [Online]. Available: https://carnegieendowment.org/research/2024/12/a-sketch-of-potential-tripwire-capabilities-for-ai 
 
-P. Henderson et al., “Safety Risks from Customizing Foundation Models via Fine-tuning,” Jan. 2024. [Online]. Available: https://hai.stanford.edu/policy/policy-brief-safety-risks-customizing-foundation-models-fine-tuning 
+- P. Henderson et al., “Safety Risks from Customizing Foundation Models via Fine-tuning,” Jan. 2024. [Online]. Available: https://hai.stanford.edu/policy/policy-brief-safety-risks-customizing-foundation-models-fine-tuning 
 
-R. Chapman et al., “Formal verification of cryptographic software at AWS - Current practices and future trends,” Amazon Science.  [Online]. Available: https://www.amazon.science/publications/formal-verification-of-cryptographic-software-at-aws-current-practices-and-future-trends
+- R. Chapman et al., “Formal verification of cryptographic software at AWS - Current practices and future trends,” Amazon Science.  [Online]. Available: https://www.amazon.science/publications/formal-verification-of-cryptographic-software-at-aws-current-practices-and-future-trends
 
-Armstrong, S., Sandberg, A. & Bostrom, N. Thinking Inside the Box: Controlling and Using an Oracle AI. Minds & Machines 22, 299–324 (2012). https://doi.org/10.1007/s11023-012-9282-2 
+- Armstrong, S., Sandberg, A. & Bostrom, N. Thinking Inside the Box: Controlling and Using an Oracle AI. Minds & Machines 22, 299–324 (2012). https://doi.org/10.1007/s11023-012-9282-2 
 
-Andrew Trask at al., “Secure Enclaves for AI Evaluation,” OpenMined.  [Online]. Available: https://openmined.org/blog/secure-enclaves-for-ai-evaluation/
+- Andrew Trask at al., “Secure Enclaves for AI Evaluation,” OpenMined.  [Online]. Available: https://openmined.org/blog/secure-enclaves-for-ai-evaluation/
 
-A. Mutschler, “Partitioning Processors For AI Workloads,” Semiconductor Engineering.  [Online]. Available: https://semiengineering.com/partitioning-processors-for-ai-workloads/
+- A. Mutschler, “Partitioning Processors For AI Workloads,” Semiconductor Engineering.  [Online]. Available: https://semiengineering.com/partitioning-processors-for-ai-workloads/
 
-F. Li, X. Li, and M. Gao, “Secure MLaaS with Temper: Trusted and Efficient Model Partitioning and Enclave Reuse,” in Annual Computer Security Applications Conference, Austin TX USA: ACM, Dec. 2023, pp. 621–635. doi: 10.1145/3627106.3627145.
+- F. Li, X. Li, and M. Gao, “Secure MLaaS with Temper: Trusted and Efficient Model Partitioning and Enclave Reuse,” in Annual Computer Security Applications Conference, Austin TX USA: ACM, Dec. 2023, pp. 621–635. doi: 10.1145/3627106.3627145.
 
-J. Babcock, J. Kramar, and R. V. Yampolskiy, “Guidelines for Artificial Intelligence Containment,” Jul. 24, 2017, arXiv: arXiv:1707.08476. doi: 10.48550/arXiv.1707.08476.
+- J. Babcock, J. Kramar, and R. V. Yampolskiy, “Guidelines for Artificial Intelligence Containment,” Jul. 24, 2017, arXiv: arXiv:1707.08476. doi: 10.48550/arXiv.1707.08476.
 
-E. Yudkowsky, “That Alien Message,” May 2008,  [Online]. Available: https://www.lesswrong.com/posts/5wMcKNAwB6X4mp9og/that-alien-message
+- E. Yudkowsky, “That Alien Message,” May 2008,  [Online]. Available: https://www.lesswrong.com/posts/5wMcKNAwB6X4mp9og/that-alien-message
 
